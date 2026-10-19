@@ -1,0 +1,13 @@
+main {
+  border-color: #ffe600;
+  background: repeating-linear-gradient(0deg, #211f05 0 2px, #0a0a0a 2px 12px);
+}
+input {
+  border-color: #ffe600;
+}
+output {
+  display: block;
+  color: #fff37a;
+  font-size: 2.2rem;
+  text-align: center;
+}

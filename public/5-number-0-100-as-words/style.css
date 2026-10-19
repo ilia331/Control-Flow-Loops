@@ -1,0 +1,14 @@
+main {
+  border-color: #ff8c42;
+  background: linear-gradient(#24150d, #0a0a0a);
+}
+input {
+  border-radius: 1.5rem;
+  text-align: center;
+}
+output {
+  display: block;
+  color: #ffb178;
+  font-size: 1.6rem;
+  text-align: center;
+}

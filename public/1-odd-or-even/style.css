@@ -1,0 +1,13 @@
+main {
+  border-color: #39ff14;
+  background: radial-gradient(circle at top right, #123d18, #0a0a0a 55%);
+}
+h1::before {
+  content: "● ";
+  color: #39ff14;
+}
+output {
+  color: #39ff14;
+  font-size: 2rem;
+  text-transform: uppercase;
+}

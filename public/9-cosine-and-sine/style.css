@@ -1,0 +1,13 @@
+main {
+  border-color: #4c9aff;
+  background: linear-gradient(#08162d, #0a0a0a);
+}
+pre {
+  color: #9bc4ff;
+  border-left-color: #4c9aff;
+  max-height: 24rem;
+  overflow: auto;
+}
+button {
+  border-color: #4c9aff;
+}

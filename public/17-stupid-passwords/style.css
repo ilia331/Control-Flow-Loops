@@ -1,0 +1,12 @@
+main {
+  border-color: #ff9500;
+  background: #291806;
+}
+h1::after {
+  content: " 🔐";
+}
+pre {
+  color: #ffc266;
+  line-height: 1.8;
+  border-left-color: #ff9500;
+}

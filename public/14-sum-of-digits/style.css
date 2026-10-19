@@ -1,0 +1,14 @@
+main {
+  border-color: #a8ff00;
+  background: linear-gradient(135deg, #172400, #0a0a0a 65%);
+}
+input {
+  font-size: 1.2rem;
+  text-align: right;
+}
+output {
+  display: block;
+  color: #caff70;
+  font-size: 2rem;
+  text-align: right;
+}

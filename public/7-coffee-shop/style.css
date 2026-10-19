@@ -1,0 +1,17 @@
+main {
+  border-color: #d99a5b;
+  background: linear-gradient(120deg, #24160d, #0a0a0a 70%);
+}
+h1 {
+  color: #e8b77b;
+}
+select {
+  border-color: #d99a5b;
+  background: #21130b;
+}
+output {
+  display: block;
+  color: #ffd09a;
+  font-size: 1.4rem;
+  text-align: center;
+}

@@ -1,0 +1,13 @@
+main {
+  border-color: #00d9ff;
+  background: linear-gradient(135deg, #071c2a, #0a0a0a 65%);
+}
+label {
+  color: #7deaff;
+}
+output {
+  display: block;
+  color: #00d9ff;
+  font-size: 2rem;
+  text-align: center;
+}

@@ -1,0 +1,10 @@
+main {
+  border-color: #ff79c6;
+  background: linear-gradient(135deg, #261126, #0a0a0a 70%);
+}
+pre {
+  color: #ff9ed5;
+  font-size: 1.35rem;
+  letter-spacing: 0.18em;
+  border-left-color: #ff79c6;
+}

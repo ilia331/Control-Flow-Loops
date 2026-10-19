@@ -1,0 +1,13 @@
+main {
+  border-color: #ff3b30;
+  background: #260d0b;
+}
+pre {
+  color: #ff8078;
+  font-size: 1.25rem;
+  text-align: center;
+  border-left-color: #ff3b30;
+}
+button {
+  border-color: #ff3b30;
+}

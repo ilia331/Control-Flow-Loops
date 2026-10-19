@@ -1,0 +1,15 @@
+main {
+  border-color: #ff4fd8;
+  background: radial-gradient(circle at center, #300d2b, #0a0a0a 72%);
+}
+input {
+  width: 4rem;
+  text-align: center;
+  text-transform: lowercase;
+}
+output {
+  display: block;
+  color: #ff9be9;
+  font-size: 1.7rem;
+  letter-spacing: 0.3em;
+}

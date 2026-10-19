@@ -1,0 +1,14 @@
+main {
+  border-color: #f0f0f0;
+  background: linear-gradient(180deg, #202020, #0a0a0a);
+}
+h1 {
+  color: #f0f0f0;
+  text-decoration: underline;
+}
+output {
+  display: block;
+  color: #ffffff;
+  font-size: 1.3rem;
+  letter-spacing: 0.12em;
+}

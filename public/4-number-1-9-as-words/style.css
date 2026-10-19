@@ -1,0 +1,16 @@
+main {
+  border-color: #ffcc00;
+  background: #171407;
+}
+h1 {
+  color: #ffcc00;
+  letter-spacing: 0.08em;
+}
+output {
+  display: block;
+  padding: 1.5rem;
+  color: #fff0a3;
+  font-size: 1.8rem;
+  text-align: center;
+  border: 2px dashed #ffcc00;
+}

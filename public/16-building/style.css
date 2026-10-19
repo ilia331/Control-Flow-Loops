@@ -1,0 +1,17 @@
+main {
+  border-color: #c0c0c0;
+  background: repeating-linear-gradient(
+    90deg,
+    #151515 0 20px,
+    #1e1e1e 20px 22px
+  );
+}
+pre {
+  color: #e0e0e0;
+  border-left-color: #c0c0c0;
+  overflow-x: auto;
+}
+button {
+  border-color: #c0c0c0;
+  color: #ffffff;
+}

@@ -1,0 +1,13 @@
+main {
+  border-color: #00ff9d;
+  background: radial-gradient(circle, #063d2a, #0a0a0a 70%);
+}
+h1 {
+  color: #62ffc0;
+}
+pre {
+  color: #8affd0;
+  line-height: 1.8;
+  border-left-color: #00ff9d;
+  word-break: break-all;
+}

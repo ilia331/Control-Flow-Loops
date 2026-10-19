@@ -1,0 +1,19 @@
+main {
+  border-color: #b56cff;
+  background: repeating-linear-gradient(
+    45deg,
+    #120d1d 0 12px,
+    #0a0a0a 12px 24px
+  );
+}
+form {
+  grid-template-columns: repeat(3, 1fr);
+}
+output {
+  display: block;
+  padding: 1rem;
+  border: 1px solid #b56cff;
+  color: #d9b8ff;
+  font-size: 2rem;
+  text-align: center;
+}

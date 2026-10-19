@@ -1,0 +1,15 @@
+main {
+  border-color: #00c2a8;
+  background: radial-gradient(circle, #07352f, #0a0a0a 70%);
+}
+select,
+input {
+  border-radius: 0.3rem;
+  border-color: #00c2a8;
+}
+output {
+  display: block;
+  color: #65ffe8;
+  font-size: 1.5rem;
+  text-align: right;
+}
